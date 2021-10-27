@@ -1,10 +1,10 @@
-<p align="center">
+<p align="left">
 
   <img src="https://komarev.com/ghpvc/?username=anpilogov-com&label=Profile%20views&color=2bbc8a&style=flat" alt="anpilogov-com" />
 
 </p>
 
-<p align="center">
+<p align="left">
 
   <img src="https://img.shields.io/badge/JS-Developer-_.svg?style=flat&logoColor=black&color=ffe600"> 
   <img src="https://img.shields.io/badge/_-HTML-_.svg?style=flat&logoColor=black&color=ff7300">
@@ -14,7 +14,7 @@
 
 <p/>
 
-<p align="center">
+<p align="left">
 
   <img src="https://img.shields.io/badge/_-I use Git-_.svg?style=flat&logoColor=black&color=F05032&logo=data:image/webp;base64,UklGRsAAAABXRUJQVlA4TLMAAAAvF8AFEG9gIG2b+De97Tcx//NPkG2b+gg2wyeWQ48jBCCAgJpt27LsQTORTHJ4KzaCLeBQfQ9GcGukL+OZpL/dy3zv/fwzRPRfYdu2jTrY8YnY4WRFD/N78OkuQF4VagIaJ/jWmN+e2SkcwFd1IYGAgQuJsNhvEqVu02JF6Rns/CD/xxXlhekPV5MH9jduEvmgYP4oAHefWJIrAAURS6BKisVvSCI6JhlSQTKk5h9F1jlxEwA=">
   <img src="https://img.shields.io/badge/_-Webpack-_.svg?style=flat&logoColor=black&color=198bc2&logo=data:image/webp;base64,UklGRvAAAABXRUJQVlA4TOQAAAAvF8AFEMcgFkzmL92Vw/zPP4EgZIoFeoBsgKKw+gNpAAAY+sV3gAFibKttJQz4ayWccJBe/60ih9kKIvo/AfQw5fyjD/WEGXZ9wxsQgI2fDBNiB5iGG6uILuIBtQS+EA/V81Q9EE8mUnHgSroBwKbpAlyUyHcdjRfcLmKj7k7kwEzW7prRDPTciqy9VYr5E9SfOuCaKl4Am6akG/AOSAnxA7P/o+1J0zuTItZ6zaSIhcxWUYusYeVSUQtnInLE+sfjyLkiOkVriKfqidiM+sMcYIY4D/SQ/c6ZXuoRDqUPU86JHgI=">
@@ -22,7 +22,7 @@
 
 <p/>
 
-<p align="center">
+<p align="left">
 
   <img src="https://img.shields.io/badge/Linux-OS-_.svg?style=flat&logoColor=ffffff&color=2bbc8a&logo=data:image/webp;base64,UklGRh4BAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSMcAAAABgFXbblDpSogEJFRCJURCHLw4mDh4OBgcTB1MHYAD6oA6yEdTQEJETADm9D39ZLy4+cjPyMP6LB/Fy+r+gkpnPt4oxqLtDQOwNKdHXDknPVweVc3KEN+fiCcAIPffe8vVEG7N5VZtEi29XXRDesN0q243allnXP2akVuewbqnSXZLM97/e56I1DzJxf2gKC+g/hPJsjE4EABQlyADANMNHBbIAB40IB4kBTJwgHX//p0OACwUqH0IWDczKwRowpxELWE0U8IIAFZQOCAwAAAA0AIAnQEqGAAYAD6RRJ1KpaOioagIALASCWkAAD2joAD+77j//th//7XY//7VyAAA">
   <img src="https://img.shields.io/badge/Windows-OS-_.svg?style=flat&logoColor=black&color=2bbc8a&logo=data:image/webp;base64,UklGRrgAAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSGsAAAANcBRJctisEOQYaCEsA1+QJExcZmIoMgMxyIWBg0AvXfzyOyImABeqilSK1U0kkj7c9H1/kN6rDAVABPIv3OVtVrHlMCYFGKm1TGJfS+p+Hnpc5P3ncBPrPwAa2tkDeJKyJTNvEf08TKRsAQBWUDggJgAAANACAJ0BKhgAGAA+kUSdSqWjoqGoCACwEglpAAA9o6AA/vhNAAAA">
@@ -31,8 +31,6 @@
 
 <br />
 <br />
-
----
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Artem
 
@@ -47,11 +45,9 @@ In my experience, there are many tools and languages that you can see further do
 
 ## Languages:
 
----
-
 <br />
 
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -71,7 +67,7 @@ In my experience, there are many tools and languages that you can see further do
   <br />
   <br />
 
-  <p align="center">This is just beginning 😋<p/>
+  <p align="left">This is just beginning 😋<p/>
 <p/>
 
 <br />
@@ -79,11 +75,9 @@ In my experience, there are many tools and languages that you can see further do
 
 ## Tools: 🔪
 
----
-
 <br />
 
-<p align="center">
+<p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -95,7 +89,7 @@ In my experience, there are many tools and languages that you can see further do
   </a>
   <br />
   <br />
-  <p align="center">My core development tools.<p/>
+  <p align="left">My core development tools.<p/>
 <p/>
 
 <br />
@@ -103,11 +97,9 @@ In my experience, there are many tools and languages that you can see further do
 
 ## Graphic's tools: 🤡
 
----
-
 <br />
 
-<p align="center">
+<p align="left">
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
@@ -122,7 +114,7 @@ In my experience, there are many tools and languages that you can see further do
   </a>
   <br />
   <br />
-  <p align="center">I've experience working with video editors and 3D graphics editors.<p/>
+  <p align="left">I've experience working with video editors and 3D graphics editors.<p/>
 <p/>
 
 <br />
@@ -130,11 +122,9 @@ In my experience, there are many tools and languages that you can see further do
 
 ## Frameworks: 🙄
 
----
-
 <br />
 
-<p align="center">
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -152,7 +142,7 @@ In my experience, there are many tools and languages that you can see further do
   </a>
   <br />
   <br />
-  <p align="center">😱 Brain-digging instruments. 😱<p/>
+  <p align="left">😱 Brain-digging instruments. 😱<p/>
   
 <p/>
 
@@ -161,10 +151,8 @@ In my experience, there are many tools and languages that you can see further do
 
 ## Connect with me:
 
----
-
 <br />
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/https://twitter.com/anpilogov_com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/anpilogov_com" height="30" width="40" /></a>
   <a href="https://fb.com/https://www.facebook.com/profile.php?id=100056203089338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100056203089338" height="30" width="40" /></a>
   <a href="https://www.behance.net/https://www.behance.net/comanpilog39ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/comanpilog39ad" height="30" width="40" /></a>
@@ -172,6 +160,6 @@ In my experience, there are many tools and languages that you can see further do
 <br />
 <br />
 <br />
-<p align="center">
+<p align="left">
   Well, is where my IT story begins. Are you interested? Write me on socials, let's chat and code!
 <p/>
