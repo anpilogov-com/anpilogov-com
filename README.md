@@ -34,8 +34,6 @@ In my experience, there are many tools and languages that you can see further do
   </a>
 <p/>
 
-<br />
-
 <p align="letf">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -47,8 +45,6 @@ In my experience, there are many tools and languages that you can see further do
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
   </a>
 <p/>
-
-<br />
 
 <p align="letf">
   <a href="https://getbootstrap.com" target="_blank">
