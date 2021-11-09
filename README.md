@@ -4,26 +4,6 @@
 
 </p>
 
-<p align="letf">
-
-  <img src="https://img.shields.io/badge/JS-Developer-_.svg?style=flat&logoColor=black&color=ffe600"> 
-  <img src="https://img.shields.io/badge/_-HTML-_.svg?style=flat&logoColor=black&color=ff7300">
-  <img src="https://img.shields.io/badge/_-CSS-_.svg?style=flat&logoColor=black&color=2bbc8a">
-  <img src="https://img.shields.io/badge/_-PHP-_.svg?style=flat&logoColor=black&color=006ba1">
-  <img src="https://img.shields.io/badge/_-.NET-_.svg?style=flat&logoColor=black&color=007bff">
-  <img src="https://img.shields.io/badge/_-I use Git-_.svg?style=flat&logoColor=black&color=F05032&logo=data:image/webp;base64,UklGRsAAAABXRUJQVlA4TLMAAAAvF8AFEG9gIG2b+De97Tcx//NPkG2b+gg2wyeWQ48jBCCAgJpt27LsQTORTHJ4KzaCLeBQfQ9GcGukL+OZpL/dy3zv/fwzRPRfYdu2jTrY8YnY4WRFD/N78OkuQF4VagIaJ/jWmN+e2SkcwFd1IYGAgQuJsNhvEqVu02JF6Rns/CD/xxXlhekPV5MH9jduEvmgYP4oAHefWJIrAAURS6BKisVvSCI6JhlSQTKk5h9F1jlxEwA=">
-  <img src="https://img.shields.io/badge/_-Webpack-_.svg?style=flat&logoColor=black&color=198bc2&logo=data:image/webp;base64,UklGRvAAAABXRUJQVlA4TOQAAAAvF8AFEMcgFkzmL92Vw/zPP4EgZIoFeoBsgKKw+gNpAAAY+sV3gAFibKttJQz4ayWccJBe/60ih9kKIvo/AfQw5fyjD/WEGXZ9wxsQgI2fDBNiB5iGG6uILuIBtQS+EA/V81Q9EE8mUnHgSroBwKbpAlyUyHcdjRfcLmKj7k7kwEzW7prRDPTciqy9VYr5E9SfOuCaKl4Am6akG/AOSAnxA7P/o+1J0zuTItZ6zaSIhcxWUYusYeVSUQtnInLE+sfjyLkiOkVriKfqidiM+sMcYIY4D/SQ/c6ZXuoRDqUPU86JHgI=">
-  <img src="https://img.shields.io/badge/_-Gulp-_.svg?style=flat&logoColor=black&color=CF4647&logo=data:image/webp;base64,UklGRswAAABXRUJQVlA4TL8AAAAvF8AFELdAJm0T/6Z7bRrmf/4FAiSmAIJJmmo7BvR4RPA9AizbVuJKF1FiWkJE5j/YmNdV/Uf0fwLwP2Z+D18Ry6jwiN1SDr4jl5EZAQX30jGskfHU6oBcAezpjiMNJDJQAqUhK9YdNJXrAPYGYDVoxV7JM2a3vSN1BSSEO3EkaWC3dFZuoZAImpVOg9bskXSXzs2PtirU3fyKs9sqsRmDtZJNyLPQWqTmYN4nwm0kjFfDU8aYXB49lU5vIsa/CQA=">
-
-<p/>
-
-<p align="letf">
-
-  <img src="https://img.shields.io/badge/Linux-OS-_.svg?style=flat&logoColor=ffffff&color=2bbc8a&logo=data:image/webp;base64,UklGRh4BAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSMcAAAABgFXbblDpSogEJFRCJURCHLw4mDh4OBgcTB1MHYAD6oA6yEdTQEJETADm9D39ZLy4+cjPyMP6LB/Fy+r+gkpnPt4oxqLtDQOwNKdHXDknPVweVc3KEN+fiCcAIPffe8vVEG7N5VZtEi29XXRDesN0q243allnXP2akVuewbqnSXZLM97/e56I1DzJxf2gKC+g/hPJsjE4EABQlyADANMNHBbIAB40IB4kBTJwgHX//p0OACwUqH0IWDczKwRowpxELWE0U8IIAFZQOCAwAAAA0AIAnQEqGAAYAD6RRJ1KpaOioagIALASCWkAAD2joAD+77j//th//7XY//7VyAAA">
-  <img src="https://img.shields.io/badge/Windows-OS-_.svg?style=flat&logoColor=black&color=2bbc8a&logo=data:image/webp;base64,UklGRrgAAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSGsAAAANcBRJctisEOQYaCEsA1+QJExcZmIoMgMxyIWBg0AvXfzyOyImABeqilSK1U0kkj7c9H1/kN6rDAVABPIv3OVtVrHlMCYFGKm1TGJfS+p+Hnpc5P3ncBPrPwAa2tkDeJKyJTNvEf08TKRsAQBWUDggJgAAANACAJ0BKhgAGAA+kUSdSqWjoqGoCACwEglpAAA9o6AA/vhNAAAA">
-
-<p/>
-
 <br />
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Artem
@@ -86,6 +66,13 @@ In my experience, there are many tools and languages that you can see further do
   <a href="https://vuetifyjs.com/en/" target="_blank">
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
   </a>
+<p/>
+
+<p align="letf">
+
+  <img src="https://img.shields.io/badge/Linux-OS-_.svg?style=flat&logoColor=ffffff&color=2bbc8a&logo=data:image/webp;base64,UklGRh4BAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSMcAAAABgFXbblDpSogEJFRCJURCHLw4mDh4OBgcTB1MHYAD6oA6yEdTQEJETADm9D39ZLy4+cjPyMP6LB/Fy+r+gkpnPt4oxqLtDQOwNKdHXDknPVweVc3KEN+fiCcAIPffe8vVEG7N5VZtEi29XXRDesN0q243allnXP2akVuewbqnSXZLM97/e56I1DzJxf2gKC+g/hPJsjE4EABQlyADANMNHBbIAB40IB4kBTJwgHX//p0OACwUqH0IWDczKwRowpxELWE0U8IIAFZQOCAwAAAA0AIAnQEqGAAYAD6RRJ1KpaOioagIALASCWkAAD2joAD+77j//th//7XY//7VyAAA">
+  <img src="https://img.shields.io/badge/Windows-OS-_.svg?style=flat&logoColor=black&color=2bbc8a&logo=data:image/webp;base64,UklGRrgAAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSGsAAAANcBRJctisEOQYaCEsA1+QJExcZmIoMgMxyIWBg0AvXfzyOyImABeqilSK1U0kkj7c9H1/kN6rDAVABPIv3OVtVrHlMCYFGKm1TGJfS+p+Hnpc5P3ncBPrPwAa2tkDeJKyJTNvEf08TKRsAQBWUDggJgAAANACAJ0BKhgAGAA+kUSdSqWjoqGoCACwEglpAAA9o6AA/vhNAAAA">
+
 <p/>
 
 <br />
